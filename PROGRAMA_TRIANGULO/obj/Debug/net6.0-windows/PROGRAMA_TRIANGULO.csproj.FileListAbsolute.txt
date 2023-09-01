@@ -1,0 +1,17 @@
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\bin\Debug\net6.0-windows\PROGRAMA_TRIANGULO.exe
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\bin\Debug\net6.0-windows\PROGRAMA_TRIANGULO.deps.json
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\bin\Debug\net6.0-windows\PROGRAMA_TRIANGULO.runtimeconfig.json
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\bin\Debug\net6.0-windows\PROGRAMA_TRIANGULO.dll
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\bin\Debug\net6.0-windows\PROGRAMA_TRIANGULO.pdb
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.csproj.AssemblyReference.cache
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.Form1.resources
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.csproj.GenerateResource.cache
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.AssemblyInfoInputs.cache
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.AssemblyInfo.cs
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.csproj.CoreCompileInputs.cache
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.dll
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\refint\PROGRAMA_TRIANGULO.dll
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.pdb
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\PROGRAMA_TRIANGULO.genruntimeconfig.cache
+C:\Users\reginaldo.grellmann\OneDrive\Área de Trabalho\Entra21\PROGRAMA_TRIANGULO\obj\Debug\net6.0-windows\ref\PROGRAMA_TRIANGULO.dll
